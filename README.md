@@ -122,7 +122,7 @@ The dashboard was designed based on stakeholder mockups and includes:
 
 ### Dashboard GIF Previews
 ## Home page
-[Home page](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Home%20page.png)
+![Home page](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Home%20page.png)
 
 ## Finance View
 ![Finance view](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Finance%20View.png)
