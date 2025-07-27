@@ -121,16 +121,23 @@ The dashboard was designed based on stakeholder mockups and includes:
 * **Support Page**
 
 ### Dashboard GIF Previews
+## Home page
+[Home page](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Home%20page.png)
 
-![Home page](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Home%20page.png)
-*
-*
-*
-*
-*
-*
-*
+## Finance View
+![Finance view]
 
+## Sales view
+![Sales view]
+
+## Marketing view
+![Marketing view]
+
+## Supplychain view
+![Supplychain view]
+
+## Executive view
+![Executive view]
 ---
 
 ## Key DAX Measures
