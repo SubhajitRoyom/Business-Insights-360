@@ -125,7 +125,7 @@ The dashboard was designed based on stakeholder mockups and includes:
 [Home page](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Home%20page.png)
 
 ## Finance View
-![Finance view]
+![Finance view](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Finance%20View.png)
 
 ## Sales view
 ![Sales view]
