@@ -137,7 +137,7 @@ The dashboard was designed based on stakeholder mockups and includes:
 ![Supplychain view](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Supplychain%20view.png)
 
 ## Executive view
-![Executive view]
+![Executive view](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Executive%20view.png)
 ---
 
 ## Key DAX Measures
