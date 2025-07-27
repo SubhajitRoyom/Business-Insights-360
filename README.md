@@ -121,7 +121,7 @@ The dashboard was designed based on stakeholder mockups and includes:
 * **Product Insights**
 * **Support Page**
 
-### Dashboard GIF Previews
+### Dashboard Previews
 ## Home page
 ![Home page](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/Home%20page.png)
 
@@ -167,7 +167,7 @@ This project empowered AtliQ Hardware to base their decisions on actual data, re
 
 ## Live Report & Files
 
-* 🔗 [Live Report]()
+* 🔗 [Live Report](https://app.powerbi.com/view?r=eyJrIjoiNDYzM2QxZGMtM2JhNC00YzhhLWJjNTMtMjg2NzhlYTM3MDI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 * 📂 [PBIX Report File on GitHub]()
 
 ---
