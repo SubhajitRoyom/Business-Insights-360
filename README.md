@@ -171,6 +171,6 @@ This project empowered AtliQ Hardware to base their decisions on actual data, re
 
 ---
 
-Feel free to connect with me on [LinkedIn]
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/subhajit-roy-9a0672314/)
 
 ---
