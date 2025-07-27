@@ -11,7 +11,7 @@
 7. [Dashboard Design](#dashboard-design)
 8. [Key DAX Measures](#key-dax-measures)
 9. [Project Outcome](#project-outcome)
-10. [Live Report & Files](#live-report--files)
+10. [Live Report](#live-report)
 
 ---
 
@@ -77,8 +77,6 @@ They operate in over 27 markets globally. This project kickstarted the company's
 * Bookmarking and navigation with buttons
 * Conditional formatting with icons and colors
 * Power BI Service publishing
-* Setting up a personal gateway for auto-refresh
-* Power BI App creation, access control, and workspace collaboration
 
 ---
 
@@ -118,8 +116,6 @@ The dashboard was designed based on stakeholder mockups and includes:
 * **Marketing View**
 * **Supply Chain View**
 * **Executive View**
-* **Product Insights**
-* **Support Page**
 
 ### Dashboard Previews
 ## Home page
@@ -168,7 +164,6 @@ This project empowered AtliQ Hardware to base their decisions on actual data, re
 ## Live Report & Files
 
 * 🔗 [Live Report](https://app.powerbi.com/view?r=eyJrIjoiNDYzM2QxZGMtM2JhNC00YzhhLWJjNTMtMjg2NzhlYTM3MDI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-* 📂 [PBIX Report File on GitHub]()
 
 ---
 
