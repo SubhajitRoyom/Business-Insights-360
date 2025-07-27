@@ -102,6 +102,7 @@ They operate in over 27 markets globally. This project kickstarted the company's
 ---
 
 ## Data Modeling
+![data model](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/datamodel.png)
 
 A Snowflake schema was used for efficient analytical performance.
 
