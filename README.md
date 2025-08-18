@@ -60,7 +60,7 @@ They operate in over 27 markets globally. This project kickstarted the company's
 * Creating calculated columns
 * Creating a custom date table using M Language
 
-### Data Modeling
+### Data Modelling
 
 * Snowflake schema
 * Creating relationships between fact and dimension tables
@@ -99,10 +99,8 @@ They operate in over 27 markets globally. This project kickstarted the company's
 
 ---
 
-## Data Modeling
+## Data Modelling
 ![data model](https://github.com/SubhajitRoyom/Business-Insights-360/blob/main/datamodel.png)
-
-A Snowflake schema was used for efficient analytical performance.
 
 ---
 
@@ -142,8 +140,6 @@ The dashboard was designed based on stakeholder mockups and includes:
 * `Total Net Sales = [Gross Sales] - [Pre Invoice Deductions] - [Post Invoice Deductions]`
 * `Gross Margin % = DIVIDE([Net Sales] - [COGS], [Net Sales])`
 * `Forecast Accuracy % = DIVIDE([Forecast Qty] - [Actual Qty], [Forecast Qty])`
-* `YTD Sales = TOTALYTD([Net Sales], 'Date'[Date])`
-* `Top Product by Market = RANKX(ALL('Product'), [Net Sales])`
 
 ---
 
@@ -157,7 +153,6 @@ With this dashboard:
 * Supply chain teams can evaluate forecast accuracy vs actuals
 * Sales can monitor monthly and yearly growth
 
-This project empowered AtliQ Hardware to base their decisions on actual data, reducing risk and improving efficiency across the organization.
 
 ---
 
@@ -166,7 +161,5 @@ This project empowered AtliQ Hardware to base their decisions on actual data, re
 * 🔗 [Live Report](https://app.powerbi.com/view?r=eyJrIjoiNDYzM2QxZGMtM2JhNC00YzhhLWJjNTMtMjg2NzhlYTM3MDI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/subhajit-roy-9a0672314/)
-
+ [LinkedIn](https://www.linkedin.com/in/subhajit-roy-9a0672314/)
 ---
