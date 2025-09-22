@@ -161,5 +161,5 @@ With this dashboard:
 * 🔗 [Live Report](https://app.powerbi.com/view?r=eyJrIjoiNjI1OTNjOWItODE0MS00ODViLTgwNmYtN2JkZjgxMjQwMTIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
- [LinkedIn](https://www.linkedin.com/in/subhajit-roy-9a0672314/)
+ [LinkedIn](https://www.linkedin.com/in/subhajitroy003/)
 ---
